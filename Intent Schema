@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "name",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ],
+      "intent": "getBurnMouth"
+    },
+    {
+      "slots": [
+        {
+          "name": "name",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ],
+      "intent": "getExercise"
+    },
+    {
+      "slots": [
+        {
+          "name": "name",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ],
+      "intent": "getWolves"
+    },
+    {
+      "slots": [
+        {
+          "name": "name",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ],
+      "intent": "getHeadSize"
+    }
+  ]
+}
